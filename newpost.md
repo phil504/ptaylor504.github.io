@@ -1,8 +1,6 @@
 ---
 layout: default
 title: New Post
-parent: documents
-nav_order: 1
 ---
 Here is some content for the post that is below the "formatter"
 1.	Download Patch
