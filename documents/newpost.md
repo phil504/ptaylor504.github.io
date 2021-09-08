@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "New Post"
-date:   2021-09-08 21:22:04 -0500
-categories: test 
+layout: default
+title: New Post
+parent: documents
+nav_order: 1
 ---
 Here is some content for the post that is below the "formatter"
 1.	Download Patch
